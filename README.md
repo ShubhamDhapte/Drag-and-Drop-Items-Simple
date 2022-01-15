@@ -1,3 +1,15 @@
+*SCREENSHOTS*
+
+![a](https://user-images.githubusercontent.com/93269830/149624805-db86f598-6c75-4734-a603-531947ce5b03.png)
+
+Put content and just click on add
+![b](https://user-images.githubusercontent.com/93269830/149624809-8548622d-b9ad-438f-b420-ccc5aaa2d40d.png)
+
+You can drag and drop content
+![c](https://user-images.githubusercontent.com/93269830/149624811-c79eef28-f6db-4db5-9a87-f0a2c412b87f.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
